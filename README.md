@@ -1,14 +1,14 @@
-# AmazonConnectResources
+## Amazon Connect Resources
  A Comprehensive list of Amazon Connect Resources
  
-# Amazon Resouces
-Overview - https://aws.amazon.com/connect/
-A Good Introdcution - https://aws.amazon.com/about-aws/whats-new/2017/03/introducing-amazon-connect/
-Features - https://aws.amazon.com/connect/features/
-Resouces - https://aws.amazon.com/connect/resources/
-FAQs - https://aws.amazon.com/connect/faqs/
-User Groups - https://aws.amazon.com/developer/community/usergroups/
-Blogs - https://aws.amazon.com/blogs/contact-center/category/contact-center/amazon-connect/
+## Amazon Resouces
+* Overview - https://aws.amazon.com/connect/
+* A Good Introdcution - https://aws.amazon.com/about-aws/whats-new/2017/03/introducing-amazon-connect/
+* Features - https://aws.amazon.com/connect/features/
+* Resoucers - https://aws.amazon.com/connect/resources/
+* FAQs - https://aws.amazon.com/connect/faqs/
+* User Groups - https://aws.amazon.com/developer/community/usergroups/
+* Blogs - https://aws.amazon.com/blogs/contact-center/category/contact-center/amazon-connect/
 
 Getting Started With Amazon Connect 
 https://youtu.be/NulMykQnXGk
@@ -27,10 +27,10 @@ https://github.com/aws/amazon-connect-streams
 
 APN Training
 Exculsilev for allthe Amazon partners - You can find the Amazon Connect Technical and Business Training 
-Please go through - https://aws.amazon.com/partners/training/
-NOTE : This is only for the Amazon Partners 
+* Please go through - https://aws.amazon.com/partners/training/
+* NOTE : This is only for the Amazon Partners 
 
-# YouTube Playlists
+## YouTube Playlists
 Building Call Centers with Amazon Connect - 
 https://www.youtube.com/watch?v=WESBp_Sg7cg
 
@@ -53,9 +53,9 @@ reInvent 2017 Amazon Connect Playlist -
 https://www.youtube.com/playlist?list=PLZzrOPRIQA-9szidi-ZxEfSBfcKydO6LM
 
 reInvent 2018 Amazon Connect Playlist - (AWS re:Invent 2018: Have very good informations and user cases for Amazon Connect)
-https://www.youtube.com/playlist?list=PLnAGVY_JIY1q5JvVkcT0I_IeG9OIgZ6hv
-https://www.youtube.com/watch?v=bjb3uG9yrtI
-https://www.youtube.com/playlist?list=PLaVZ7FmVk8vR_pid6r0zqJOjLm2ZXXQkG
+* https://www.youtube.com/playlist?list=PLnAGVY_JIY1q5JvVkcT0I_IeG9OIgZ6hv
+* https://www.youtube.com/watch?v=bjb3uG9yrtI
+* https://www.youtube.com/playlist?list=PLaVZ7FmVk8vR_pid6r0zqJOjLm2ZXXQkG
 
 Bring the Power of AI to Your Amazon Connect Contact Center (BAP322-R1) - 
 https://www.youtube.com/watch?v=pg12x440mMw
@@ -67,8 +67,8 @@ Use case -
 https://www.youtube.com/watch?v=kSYdKxZkkRw
 
 Perficient  - 
-https://www.youtube.com/watch?v=UAp3GR4FZ8I
-https://www.youtube.com/playlist?list=PL2FcuzZHQgRBWZrjTYWkFulqC9B5yudNN
+* https://www.youtube.com/watch?v=UAp3GR4FZ8I
+* https://www.youtube.com/playlist?list=PL2FcuzZHQgRBWZrjTYWkFulqC9B5yudNN
 
 Amazon Connect Training - 
 https://www.youtube.com/playlist?list=PLRl3AJMdck1OCNBBRoX5QbZImjcOh5_op
@@ -79,16 +79,16 @@ https://www.youtube.com/channel/UCUhrgQ4VEFi9-mcP__hAC3g/featured
 Dr Voip Series - 
 https://www.youtube.com/watch?v=sFfk0wI0sTw&list=PLxHdDBntokmIM2AdwbxBOjCOLlk0ZPtzi&index=3
 
-# LinkedIn Resources
+## LinkedIn Resources
 
-https://www.linkedin.com/groups/13577560/
-https://www.linkedin.com/groups/8602464/
-https://www.linkedin.com/groups/8685202/
-https://www.linkedin.com/in/danielbloy/detail/recent-activity/posts/
-https://www.linkedin.com/learning/learning-amazon-connect-create-and-manage-a-contact-center
-https://www.linkedin.com/pulse/review-amazon-connect-gordon-campbell/
+* https://www.linkedin.com/groups/13577560/
+* https://www.linkedin.com/groups/8602464/
+* https://www.linkedin.com/groups/8685202/
+* https://www.linkedin.com/in/danielbloy/detail/recent-activity/posts/
+* https://www.linkedin.com/learning/learning-amazon-connect-create-and-manage-a-contact-center
+* https://www.linkedin.com/pulse/review-amazon-connect-gordon-campbell/
 
-# Social Platforms
+## Social Platforms
 Telegram - 
 https://t.me/joinchat/GIZ7o0p4_GkKG_5hPr0K8A
 
@@ -96,14 +96,14 @@ WhatsApp -
 https://chat.whatsapp.com/HVgX7bqnOu0IUkzUs78e4d
 
 Slack Workspace URLs - 
-https://amazon-connect.slack.com/
-https://amazonconnect.slack.com/
+* https://amazon-connect.slack.com/
+* https://amazonconnect.slack.com/
 
-# Other Resources
-https://www.slideshare.net/perficientinc/amazon-connect-4-steps-to-transforming-your-customer-contact-center
-https://dmacias.org/category/amazon-connect/
-https://dmacias.org/bringing-amazon-lex-into-your-amazon-connect-flows/
-https://voicefoundry.com/tag/amazon-connect/
-https://blogs.perficient.com/tag/amazon-connect/
-https://stackoverflow.com/questions/tagged/amazon-connect
-https://awsconnect.wordpress.com/
+## Other Resources
+* https://www.slideshare.net/perficientinc/amazon-connect-4-steps-to-transforming-your-customer-contact-center
+* https://dmacias.org/category/amazon-connect/
+* https://dmacias.org/bringing-amazon-lex-into-your-amazon-connect-flows/
+* https://voicefoundry.com/tag/amazon-connect/
+* https://blogs.perficient.com/tag/amazon-connect/
+* https://stackoverflow.com/questions/tagged/amazon-connect
+* https://awsconnect.wordpress.com/
