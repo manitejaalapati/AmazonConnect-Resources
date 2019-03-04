@@ -1,5 +1,5 @@
 ## Amazon Connect Resources
- A Comprehensive list of Amazon Connect Resources
+ A Comprehensive info of Amazon Connect Resources
  
 ## Amazon Resouces
 * Overview - https://aws.amazon.com/connect/
