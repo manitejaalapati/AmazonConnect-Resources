@@ -1,6 +1,10 @@
 ## Amazon Connect Resources
  A Comprehensive info of Amazon Connect Resources
  
+## Amazon Connect Primer
+* Link to Amazon Connect Primer Training - https://www.aws.training/Details/eLearning?id=49257
+(This can be accessed with regualar Amazon shopping login)
+
 ## Amazon Resouces
 * Overview - https://aws.amazon.com/connect/
 * A Good Introdcution - https://aws.amazon.com/about-aws/whats-new/2017/03/introducing-amazon-connect/
