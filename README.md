@@ -13,6 +13,7 @@
 * FAQs - https://aws.amazon.com/connect/faqs/
 * User Groups - https://aws.amazon.com/developer/community/usergroups/
 * Blogs - https://aws.amazon.com/blogs/contact-center/category/contact-center/amazon-connect/
+* This is my Arch : https://aws.amazon.com/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=*all&awsf.show=*all&awsm.page-tma=1
 
 Getting Started With Amazon Connect 
 https://youtu.be/NulMykQnXGk
